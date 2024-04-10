@@ -1,0 +1,13 @@
+def main():
+    word = ''
+    prev_chsr = ''
+    while True:
+        char = input('exit:')
+if char == 'exit':
+    if char == prev_char:
+        
+    word += char 
+
+    if_name_== '_main_':
+    main()
+        

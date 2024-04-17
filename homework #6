@@ -1,6 +1,6 @@
-a = 5
-b = 7
-c = 8
+a = 3
+b = 9
+c = 5
 
 if a<b and a<c:
     print(a)

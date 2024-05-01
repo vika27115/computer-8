@@ -1,10 +1,10 @@
-a = 3
-b = 9
-c = 5
+a = 5
+b = 5
+c = 8
 
 if a<b and a<c:
-    print(a)
+    print(c)
 elif b<a and b<c:
     print(b)
 else:
-    print(c)
+    print(a)
